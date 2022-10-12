@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/52dc472c4c902db1ad800.jpg" alt="Akbotmakersnew Logo">
 </p>
 <h1 align="center">
-  <b>LUCIFER BOT</b>
+  <b>𝐓𝐇𝐎𝐑-𝐕𝟑</b>
 </h1>
 
 ## New Features
