@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/89cb95e3fa13e7feee9a7.jpg" alt="Akbotmakersnew Logo">
+  <img src="https://telegra.ph/file/52dc472c4c902db1ad800.jpg" alt="Akbotmakersnew Logo">
 </p>
 <h1 align="center">
   <b>LUCIFER BOT</b>
