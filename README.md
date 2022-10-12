@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝗧𝐎+𝐓𝐇𝐎𝐑-𝐕𝟑+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
   <img src="https://telegra.ph/file/52dc472c4c902db1ad800.jpg" alt="Akbotmakersnew Logo">
 </p>
