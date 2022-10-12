@@ -1,7 +1,7 @@
 {
     "name": "THOR-V3",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "stack": "container",
+    "logo": "https://telegra.ph/file/8e203898a136e3b77208a.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
