@@ -50,7 +50,7 @@ async def start(client, message):
             InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilbubbed'),
             InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help')
             ],[
-            InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilhb')
+            InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilhb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
