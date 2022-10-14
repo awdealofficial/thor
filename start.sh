@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /THOR-V3
 fi
-cd /LUCIFER
+cd /THOR-V3
 pip3 install -U -r requirements.txt
 echo "𝐓𝐇𝐎𝐑-𝐕𝟑 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐁𝐨𝐭⚡...."
 python3 bot.py
