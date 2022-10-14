@@ -115,7 +115,7 @@ This module only works for my admins
 ║┣⪼ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ║┣⪼ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ║┣
-║┣⪼𝐃𝐄𝐕𝐒:⪼ 𝐇𝐁
+║┣⪼𝙳𝙴𝚅𝚂:⪼ <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     DONATE_TXT = """<Hey {}
