@@ -42,15 +42,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩꜱ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝙲𝚁𝙴𝙰𝚃𝙾𝚁𝚂 💠', url='https://t.me/Hari_OP'),
-            InlineKeyboardButton('💠 𝙰𝙱𝙾𝚄𝚃 💠', callback_data='about')
+            InlineKeyboardButton('ᴄʀᴇᴀᴛᴏʀꜱ', url='https://t.me/Hari_OP'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/tamilbubbed'),
-            InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿 💠', callback_data='help')
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilbubbed'),
+            InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help')
             ],[
-            InlineKeyboardButton('♡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ♡', url='https://t.me/tamilhb')
+            InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilhb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -87,15 +87,15 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 ➕', url=f'http://t.me/CC_autobot?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩꜱ', url=f'http://t.me/CC_autobot?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 𝙲𝚁𝙴𝙰𝚃𝙾𝚁𝚂 💠', url='https://t.me/Hari_OP'),
-            InlineKeyboardButton('💠 𝙰𝙱𝙾𝚄𝚃 💠', callback_data='about')
+            InlineKeyboardButton('ᴄʀᴇᴀᴛᴏʀꜱ', url='https://t.me/Hari_OP'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
             ],[
-            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/tamilbubbed'),
-            InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿 💠', callback_data='help')
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilbubbed'),
+            InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help')
             ],[
-            InlineKeyboardButton('♡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ♡', url='https://t.me/tamilhb')
+            InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ', url='https://t.me/tamilhb')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
