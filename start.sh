@@ -8,5 +8,5 @@ else
 fi
 cd /THOR-V3
 pip3 install -U -r requirements.txt
-echo "𝐓𝐇𝐎𝐑-𝐕𝟑 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐁𝐨𝐭⚡...."
+echo "THOR-V3 starting⚡...."
 python3 bot.py
