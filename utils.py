@@ -13,7 +13,8 @@ from pyrogram.types import InlineKeyboardButton
 from database.users_chats_db import db
 from bs4 import BeautifulSoup
 import requests
-
+import aiohttp
+from shortzy import Shortzy
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
@@ -375,3 +376,9 @@ def humanbytes(size):
         size /= power
         n += 1
     return str(round(size, 2)) + " " + Dic_powerN[n] + 'B'
+
+
+async def get_shortlink(link):
+    shortzy = Shortzy("4df33cf5773952f00f9c964d7bb3c5031f5c35a7", "tnlink.in")
+    return await shortzy.convert(link)
+    
