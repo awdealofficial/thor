@@ -10,7 +10,7 @@ import json
 import base64
 import logging
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__
 logger.setLevel(logging.INFO)
 
 async def allowed(_, __, message):
