@@ -5,7 +5,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚 𝐎𝐅 𝐓𝐇𝐎𝐑
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
+╔════❰  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -16,7 +16,7 @@ class script(object):
 ╚══════════════════❍⊱❁"""
     ADMINS_TXT = """𝐇𝐄𝐘
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
+╔════❰  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - TG Downloader Bot
 ║┣⪼ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
@@ -25,10 +25,10 @@ class script(object):
 ╚══════════════════❍⊱❁"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and THOR will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and TG Downloader Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. THOR should have admin privillage.
+1. TG Downloader should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -39,15 +39,15 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """<b>Help: Buttons</b>
 
-- <b>THOR Supports both url and alert inline buttons.</b>
+- <b>TG Downloader Supports both url and alert inline buttons.</b>
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. THOR supports buttons with any telegram media type.
+2. TG Downloader supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TAMILHB)</code>
+<code>[Button Text](buttonurl:https://t.me/Hollywood in HindiHD)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -74,7 +74,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of TG Downloader Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
@@ -106,12 +106,10 @@ This module only works for my admins
 ║┣⪼ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ║┣⪼ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ║┣⪼ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-║┣
-║┣⪼𝙳𝙴𝚅𝚂:⪼ <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     DONATE_TXT = """<Hey {}
-[Here is the Donation Link](https://t.me/Ak_Botdevelopers/15) ❤"""
+[Here is the Donation Link](https://t.me/Redxpromotionrobot) ❤"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
