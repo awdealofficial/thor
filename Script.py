@@ -7,28 +7,20 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝓜𝔂 𝓝𝓪𝓶𝓮 - <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
+║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  OWN VPS
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
-    ADMINS_TXT = """𝐇𝐄𝐘 𝐁𝐑𝐔𝐇
+    ADMINS_TXT = """𝐇𝐄𝐘
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - 𝙷𝙰𝚁𝙸
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - TG Downloader Bot
 ║┣⪼ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣      <a href=https://t.me/tamilhb>𝚃𝙰𝙼𝙸𝙻𝙷𝙱</a>
-║┣   <a href=https://t.me/tamilbubbed>𝚃𝙰𝙼𝙸𝙻 𝙳𝚄𝙱𝙱𝙴𝙳 𝙼𝙾𝚅𝙸𝙴</a>
-║┣
-║┣⪼ 𝙼𝚈 𝙵𝚁𝙸𝙴𝙽𝙳 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-║┣  <a href=https://t.me/TAMIL_MOVIES_UPDATE_ms>𝚃𝙰𝙼𝙸𝙻 𝙼𝙾𝚅𝙸𝙴𝚂 𝚄𝙿𝙳𝙰𝚃𝙴</a>
-║┣
-║┣⪼𝐃𝐄𝐕𝐒:⪼ <a href=https://t.me/Hari_OP>𝐇𝐁</a>
-║┣⪼𝐃𝐄𝐕𝐒:⪼ <a href=https://t.me/ms_alone1>𝐌𝐒</a>
+║┣      <a href=https://t.me/Hollywood_in_HindiHD>Hollywood in HindiHD</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
